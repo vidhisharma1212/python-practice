@@ -6,4 +6,4 @@ for cheese in s:
 print("no. of lines are " , no_of_lines)
 
 k= s.read()
-print(len(k))
+print(len(k)) # why is it giving 0
